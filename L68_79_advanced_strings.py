@@ -1,4 +1,4 @@
-# l_68
+# l_68 (Практические задания)
  # string = str(input())
  # print(string.upper())
 
