@@ -24,5 +24,5 @@ print(string)
 m = abs(-10)
 print(m)
 
-name = input("Введите свое имя")
+name = input("Введите имя")
 print(name)
