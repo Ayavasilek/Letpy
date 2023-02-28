@@ -1,4 +1,4 @@
-# l_98
+# l_98 (Практические задания)
 string = input()
 words = string.split(" ")
 print(len(words))
