@@ -9,9 +9,7 @@ for i in range(3):
        catalog[name] = quantity
 for c in catalog:
     print(c, ':', catalog[c])
-    
-    
-    
+   
     
 # letpy's code   
 # catalog = {}
